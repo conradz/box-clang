@@ -3,7 +3,7 @@ version: 0.0.1
 inherits: wercker/default@0.0.2
 type: service
 platform: ubuntu@12.04
-description: Wecker box for using LLVM and Clang
+description: Wercker box for using LLVM and Clang
 keywords:
     - LLVM
     - clang
