@@ -16,5 +16,5 @@ script: |
     sudo apt-get install binfmt-support -y
     sudo apt-get install libllvm3.0 llvm-3.0 llvm-3.0-runtime llvm-3.0-dev llvm-3.0-doc -y
     sudo apt-get install clang -y
-    llc --version
+    llc-3.0 --version
     clang --version
