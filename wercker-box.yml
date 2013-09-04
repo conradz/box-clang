@@ -1,6 +1,6 @@
 name: clang
 version: 0.0.0
-inherits: wercker/box-default
+inherits: wercker/box-default@0.0.2
 type: service
 platform: ubuntu@12.04
 description: Wecker box for using LLVM and Clang
