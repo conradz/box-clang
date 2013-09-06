@@ -7,6 +7,10 @@ information on using and configuring boxes.
 
 ## Changelog
 
+### 0.0.3
+
+ * Explicitly install `gcc` and `binutils`
+
 ### 0.0.2
 
  * Install all of `base-devel` package (gcc, ld, etc.)
