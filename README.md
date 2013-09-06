@@ -7,6 +7,12 @@ information on using and configuring boxes.
 
 ## Changelog
 
+### 0.0.2
+
+ * Install all of `base-devel` package (gcc, ld, etc.)
+ * Install `automake` package
+ * Added `libclang-dev` package
+
 ### 0.0.1
 
 Initial release
